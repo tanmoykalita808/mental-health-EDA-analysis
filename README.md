@@ -1,6 +1,4 @@
-# mental-health-EDA-analysis
-
-# 🧠 Mental Health Analysis Project
+Mental Health Analysis Project
 
 ## 📌 Objective
 

@@ -1,4 +1,4 @@
-Mental Health Analysis Project
+## Mental Health Analysis Project
 
 ## 📌 Objective
 
